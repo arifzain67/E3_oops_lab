@@ -40,4 +40,9 @@ class BinarySearch {
             System.out.println("Element is present at "
                                + "index " + result);
     }
+
+
+	//iam adding a line here
+
+    // added one more comment
 }
